@@ -1,4 +1,5 @@
 # Ninja Had the Noise Canceling Technology: The Mechanisms and Application of Saoto-Kikigane
+
 The repo of PHYS010T - Mechanism and Usage of Ninja Tool, Saoto-Kikigane in Regeneron ISEF 2023!
 
 ## Abstract
@@ -14,11 +15,20 @@ Further, we calculated the signal-to-noise ratio (SNR) (sound below and above 20
 (C) 2023 Yamaguchi Prefectural Tokuyama Senior High School, JAPAN. All rights reserved.
 (C) 2023 Michiru Tsurumaru, Yuto Shibasaki. All rights reserved.
 
+## ProjectBoard
+
+- [ProjectBoard](https://projectboard.world/isef/project/phys010t-mechanism-and-usage-of-ninja-tool-saoto-kikigane)
+
+## Video
+
+- [Main Introducing Video](https://youtu.be/sAYUSiPUpxI)
+- [Appendix Experiment](https://youtu.be/akSGRarr3rc)
+
 ## Contact
 
 If you have any question, Please contact:
 
-**Yamaguchi Prefectural TOKUYAMA Senior Highschool**
+### Yamaguchi Prefectural TOKUYAMA Senior Highschool**
 
 2-50 Shoro-Cho Shunan-City Yamaguchi-Pref, JAPAN, 745-0061
 
@@ -26,14 +36,16 @@ TEL: +81-834-21-0099
 
 FAX: +81-834-21-0198
 
-And If you have any question about Our Fair Director (JPN002): 
+And If you have any question about Our local Fair (JPN002):
 
-**JSEC(ジェイセック)事務局**
+### JSEC（高校生・高専生科学技術チャレンジ）事務局
 
 asahi-jsec @ hei.hankyu.co.jp (Please convert space to nothing because of avoiding spam mail.)
 
 ## お問い合わせ
 
-〒745－0061　山口県周南市鐘楼町2－50
+〒745-0061　山口県周南市鐘楼町2－50
+
+2-50, Shoro-Cho, Shunan-City, Yamaguchi-Pref, 745-0061
 
 TEL：0834-21-0099／FAX：0834-21-0198
